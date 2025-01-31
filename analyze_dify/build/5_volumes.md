@@ -20,12 +20,8 @@ A service cannot use a volume unless it is explicitly listed inside its volumes:
     - certbot
     - nginx
     - weaviate, qdrant, couchbase-server, pgvector, pgvector-rs, chroma, oceanbase, oracle, etcd, minio, milvus-standalone, opensearch, opensearch-dashboards, myscale, elasticsearch, unstructured
-    - redis
-    - redis
-    - redis
-    - redis
 
 # Which data exactly is persisted in the volumes in global leval and in specific service?
-- See [infrastructure](../infrastructure/0_infrastructure.md)
+- See [Services in detail](7_services/7_services.md)
 
 # References
