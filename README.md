@@ -1,6 +1,7 @@
 # About
 - This repository is to analyze Dify and to practice with Dify opensources
 - Dify analysis is aligned by my knowledge and powered by OpenAI for further explaination
+- This repository supports reading source code from entry level to advanced level and mimic time for reading distributed source code
   
 # Check List
 ## Analyze Dify

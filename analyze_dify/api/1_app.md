@@ -8,6 +8,7 @@
 ## app_factory.create_migrations_app()
 - Create app from config
 - Initialize database and migrate extensions
+- Refer to [migrations.md](migrations.md)
 ## app_factory.create_app()
 - Create app from config
 - Initialize extentions
@@ -40,10 +41,16 @@
 
 # app_factory.py
 ## create_flask_app_with_configs()
-- What config?
-- What does app look like after created?
+- Use flask to load config from dictionary
+    - App.config.from_mapping()
+    - Refer to [2_config.md](2_config.md)
+- Configs are class attributes of the app
 ## initialize_extensions()
-- How many extenstions?
-- 
+- Configure extensions to support the app. Each extension is initialized differently based on their SDK or how to integrate their services with the app
+- Refer to [3_extensions.md](3_extensions.md)
 
 # dify_app.py
+- This is a Flask app
+
+# References
+- [1] https://www.gevent.org/api/gevent.monkey.html
