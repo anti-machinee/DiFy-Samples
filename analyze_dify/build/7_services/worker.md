@@ -12,13 +12,13 @@
     - SENTRY_TRACES_SAMPLE_RATE
     - SENTRY_PROFILES_SAMPLE_RATE
 ### MODE
-- Cannot find where it is used
+- Use in `api/docker/entrypoint.sh` to decide whether the container should start as a Celery worker, Celery beat scheduler, or the API server.
 ### SENTRY_DSN
-- Cannot find where it is used
+- Check [1]
 ### SENTRY_TRACES_SAMPLE_RATE
-- Cannot find where it is used
+- Check [1]
 ### SENTRY_PROFILES_SAMPLE_RATE
-- Cannot find where it is used
+- Check [1]
 ## Depends on
 - Is built after db and redis
 ## Volumes
@@ -26,3 +26,6 @@
 ## Networks
 - Allows containers to communicate with each other privately within the same network
 - Also use default network
+
+# References
+- [1] https://docs.sentry.io/platforms/python/
