@@ -1,5 +1,6 @@
 # About
 - This repository is to analyze Dify and to practice with Dify opensources
+- Dify analysis is aligned by my knowledge and powered by OpenAI for further explaination
   
 # Check List
 ## Analyze Dify
@@ -15,3 +16,4 @@
 ## Cloud based
 - [ ] Host basic Dify with ECR on AWS
 - [ ] Host basic Dify with EKS on AWS
+
