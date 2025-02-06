@@ -7,21 +7,21 @@
 ## Analyze Dify
 - [x] Learn official Dify documents
 - [x] Analyze Dify docker compose
-- [ ] Analyze Dify source code
-- [ ] Analyze published samples in Dify console
-- [ ] Analyze published samples in Github
+- [x] Analyze Dify source code
+- [x] Analyze published samples in Dify console
+- [x] Analyze published samples in Github
 - [ ] Analyze current issues
 - [ ] Create technical questions
 - [ ] Contribute to Dify opensources
 ## Console based
-- [ ] Create samples in Dify console
+- [x] Create samples in Dify console
 ## Local based
-- [ ] Host basic Dify with Docker on prem
-- [ ] Host basic Dify with Kubernetes on prem
+- [x] Host basic Dify with Docker on prem
+- [x] Host basic Dify with Kubernetes on prem
 ## Cloud based
-- [ ] Host basic Dify with EC2 on AWS
-- [ ] Host basic Dify with EKS on AWS
-- [ ] Develop AWS CDK to manage infrastructures
+- [x] Host basic Dify with EC2 on AWS
+- [x] Host basic Dify with EKS on AWS
+- [x] Develop AWS CDK to manage infrastructures
 - [ ] Develop AWS CICD to manage workflows
 - [ ] Migrate Docker based infrasturctures to AWS services
 ## Learn more
