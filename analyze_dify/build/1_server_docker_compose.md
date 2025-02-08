@@ -51,3 +51,4 @@ Use `generate_docker_compose` and `docker-compose-template.yaml` to generate the
 # References
 - [1] https://github.com/compose-spec/compose-spec/blob/main/spec.md#extension
 - [2] https://github.com/compose-spec/compose-spec/blob/main/10-fragments.md
+- [3] https://hub.docker.com/u/langgenius
