@@ -1,5 +1,5 @@
 # About
-- This repository is to analyze Dify and to practice with Dify opensources
+- This repository is to analyze [Dify](https://dify.ai/) and to practice with Dify opensources
 - Dify analysis is aligned by my knowledge and powered by OpenAI for further explaination
 - This repository supports reading source code from entry level to advanced level and mimic time for reading distributed source code
   
@@ -24,6 +24,3 @@
 - [x] Develop AWS CDK to manage infrastructures
 - [ ] Develop AWS CICD to manage workflows
 - [ ] Migrate Docker based infrasturctures to AWS services
-
-# References
-- [1] 
