@@ -2,6 +2,10 @@
 
 # FilePreviewApi
 
+# WorkspaceWebappLogoApi
+
+# ToolFilePreviewApi
+
 # Further analysis
 
 # References

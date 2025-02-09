@@ -1,41 +1,53 @@
 # IndexApi
 
-# app.py
+# app
 ## AppParameterApi
 ## AppMetaApi
 ## AppInfoApi
 
-# audio.py
 ## AudioApi
 ## TextApi
 
-# completion.py
 ## CompletionApi
 ## CompletionStopApi
 ## ChatApi
 ## ChatStopApi
 
-# conversation.py
 ## CompletionApi
 ## CompletionStopApi
 ## ChatApi
 ## ChatStopApi
 
-# file.py
 ## FileApi
 
-# message.py
+## MessageListApi
+## MessageFeedbackApi
+## MessageSuggestedApi
 
-# workflow.py
+## WorkflowRunApi
+## WorkflowRunDetailApi
+## WorkflowTaskStopApi
+## WorkflowAppLogApi
 
 # dataset
+## DatasetListApi
+## DatasetApi
 
-# document
+## DocumentAddByTextApi
+## DocumentAddByFileApi
+## DocumentUpdateByTextApi
+## DocumentUpdateByFileApi
+## DocumentDeleteApi
+## DocumentListApi
+## DocumentIndexingStatusApi
 
-# hit_testing
+## HitTestingApi
 
-# segment
+## SegmentApi
+## DatasetSegmentApi
 
-# upload_file
+## UploadFileApi
+
+# Further analysis
 
 # References
