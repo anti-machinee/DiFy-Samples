@@ -24,5 +24,6 @@
 - [x] Develop AWS CDK to manage infrastructures
 - [ ] Develop AWS CICD to manage workflows
 - [ ] Migrate Docker based infrasturctures to AWS services
-## Learn more
-- [ ] Dive into Certbot
+
+# References
+- [1] 
